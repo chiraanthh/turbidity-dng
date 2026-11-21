@@ -1,0 +1,7 @@
+NTU,largest jump (px),sd y (px),sd x (px),behaviour
+0,3.7,3.4,2.5,smooth drift
+10,85.8,24.3,38.5,discrete jump(s)
+50,2.1,1.7,1.2,smooth drift
+200,29.7,16.3,6.3,discrete jump(s)
+400,84.5,23.6,40.3,discrete jump(s)
+800,18.7,8.3,6.0,discrete jump(s)

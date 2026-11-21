@@ -1,0 +1,12 @@
+# pinned to the versions the model was trained and tested with (Python 3.12)
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.0.6
+matplotlib==3.11.2
+scikit-learn==1.9.1
+joblib==1.6.0
+rawpy==0.27.1
+ExifRead==3.5.1
+streamlit==1.65.0
+# only needed for the teammate experiments in experiments/ (not used by the main pipeline)
+opencv-python==5.0.0.93

@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Regenerated automatically from the DNGs by src/loaders.py (~24 MB each, ~730 MB total)
+outputs/cache/*_mosaic.npy

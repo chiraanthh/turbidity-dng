@@ -1,0 +1,17 @@
+{
+ "shortlist": [
+  "decay_len_inner"
+ ],
+ "cross_checks": [
+  "spec_slope_cclip",
+  "tenengrad"
+ ],
+ "ranking": "min separation over sep 50-200, sep 200-400, sep 400-800",
+ "redundancy_threshold": 0.95,
+ "excluded_confounded": {
+  "max_grad": "steepest point sits on the clipped-core edge for 0-50 NTU",
+  "hf_ratio_asis": "tracks the clipped-plateau edge (trend vanishes under common clip)",
+  "f50_cclip": "tracks plateau size above T -> core brightness",
+  "f_noise_asis": "signal-to-noise: dimmer image hits noise floor sooner"
+ }
+}

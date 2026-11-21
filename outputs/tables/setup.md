@@ -1,0 +1,12 @@
+**Acquisition setup**
+
+| Item | Setting | Note |
+|---|---|---|
+| Camera | iPhone 16, main (wide) lens, 26 mm equiv. | iPhone 16 back camera 5.96mm f/1.6 |
+| Capture app / format | Lightroom iOS, DNG | raw_type=Flat (Bayer, not ProRAW) |
+| Sensor data | 12-bit, CFA BGGR | black 528, white 4095 DN |
+| ISO / shutter / aperture | 40 / 1/2000 s / f/1.6 | identical on all 30 |
+| Focus / white balance | manual 25 %, fixed WB | set in app |
+| Image size | 4032×3024 px (planes 2016×1512) |  |
+| Light source | red laser + dot-generator cap | wavelength not measured |
+| Geometry | camera looks straight down the beam through the cuvette | dark box |

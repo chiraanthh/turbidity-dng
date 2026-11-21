@@ -1,0 +1,31 @@
+file,true NTU,fit on all data,held-out (LOGO),held-out error,correct class
+APC_0190.dng,400,311,296,-26 %,yes
+APC_0191.dng,400,309,294,-27 %,yes
+APC_0192.dng,400,416,400,+0 %,yes
+APC_0193.dng,400,418,403,+1 %,yes
+APC_0194.dng,400,414,398,-0 %,yes
+APC_0195.dng,0,below range,below range,–,yes
+APC_0196.dng,0,below range,below range,–,yes
+APC_0197.dng,0,below range,below range,–,yes
+APC_0198.dng,0,below range,below range,–,yes
+APC_0199.dng,0,below range,below range,–,yes
+APC_0200.dng,10,below range,below range,–,yes
+APC_0201.dng,10,below range,below range,–,yes
+APC_0202.dng,10,below range,below range,–,yes
+APC_0203.dng,10,below range,below range,–,yes
+APC_0204.dng,10,below range,below range,–,yes
+APC_0205.dng,50,below range,below range,–,yes
+APC_0206.dng,50,below range,below range,–,yes
+APC_0207.dng,50,below range,below range,–,yes
+APC_0208.dng,50,below range,below range,–,yes
+APC_0209.dng,50,below range,below range,–,yes
+APC_0210.dng,200,224,271,+36 %,yes
+APC_0211.dng,200,225,272,+36 %,yes
+APC_0212.dng,200,221,268,+34 %,yes
+APC_0213.dng,200,217,264,+32 %,yes
+APC_0214.dng,200,185,below range,–,NO
+APC_0216.dng,800,839,917,+15 %,yes
+APC_0217.dng,800,837,914,+14 %,yes
+APC_0218.dng,800,837,914,+14 %,yes
+APC_0219.dng,800,775,842,+5 %,yes
+APC_0220.dng,800,760,824,+3 %,yes

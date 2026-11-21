@@ -1,0 +1,24 @@
+{
+ "file": "APC_0211.dng",
+ "raw_type": "Flat",
+ "num_colors": 3,
+ "cfa": "BGGR",
+ "black": 528.0,
+ "white": 4095.0,
+ "height": 3024,
+ "width": 4032,
+ "cam_wb": [
+  1.9189437627792358,
+  1.0,
+  1.9831550121307373,
+  0.0
+ ],
+ "exposure": "1/2000",
+ "iso": "40",
+ "fnumber": "8/5",
+ "focal35": "26",
+ "lens": "iPhone 16 back camera 5.96mm f/1.6",
+ "software": "Adobe Lightroom 11.6.1 (iOS)",
+ "datetime": "2026:10:13 16:43:04",
+ "bit_depth": 12
+}
